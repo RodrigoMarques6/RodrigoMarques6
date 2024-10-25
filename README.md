@@ -44,3 +44,21 @@
 </div>
 
 ###
+
+<h4 align="center">Vamos conversar?</h4>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-marques-de-lima-b83b83206/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5582996983237" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="63" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/rodrigomarques390/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
